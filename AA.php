@@ -1,4 +1,4 @@
-<<?php
+<?php
 echo "AAAAAAA
 BBBBB
 CCC
