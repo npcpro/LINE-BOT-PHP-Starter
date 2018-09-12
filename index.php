@@ -1,5 +1,6 @@
 <?php
 echo "Hello LINE BOT";
+echo "TEST FACE BOOK";
 ?>
 
 <script>
